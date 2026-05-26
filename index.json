@@ -15,9 +15,9 @@
         "restore",
         "native"
       ],
-      "homepage": "https://github.com/win9zhx/codex-context-ring-restore",
+      "homepage": "https://github.com/win9zhx/CodexPlusPlusScriptMarket/tree/add-codex-context-ring-restore/scripts",
       "script_url": "https://raw.githubusercontent.com/BigPizzaV3/CodexPlusPlusScriptMarket/main/scripts/codex-context-ring-restore.js",
-      "sha256": "e3d9409442f17112fe41542fefab8cd62b2776fc8808d8ac2d841630f127d676"
+      "sha256": "4afbb0073f3b11556208cb0427d8e0f6c935ccfc47ff53f814dad6d03e819ee7"
     },
     {
       "id": "codex-context-used-meter",
